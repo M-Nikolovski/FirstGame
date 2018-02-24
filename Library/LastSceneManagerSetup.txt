@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Level01.unity
+=======
+- path: Assets/Stages/Macedonia.unity
+>>>>>>> 4a71e8acbccb8b9ad0543f5e71b2e37d49e16eed
   isLoaded: 1
   isActive: 1
