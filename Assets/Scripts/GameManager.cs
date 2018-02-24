@@ -3,6 +3,9 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
+    public static int Score { get; set; }
+
+
     private bool gameHasEnded = false;
     public float restartDelay = 2f;
     public void EndGame()
@@ -10,13 +13,14 @@ public class GameManager : MonoBehaviour
         if (gameHasEnded == false)
         {
             gameHasEnded = true;
-            Debug.Log("GAME OVER!");
+            // Povikaj go ekranot za vnesuvanje na high score
             Invoke("Restart", restartDelay);
         }
     }
 
     public void Restart()
     {
+        Score = 0;
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
