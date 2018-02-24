@@ -16,7 +16,7 @@ EditorBuildSettings:
     guid: 1078bab082cd0cd418c521f54d437c9b
   - enabled: 1
     path: Assets/Scenes/GermanyPlayground.unity
-    guid: c0d5332683c418e47bceb401f4fa7bf7
+    guid: c1185527d4bec6d43aca4972d96401a9
   - enabled: 1
     path: Assets/Scenes/ChinaPlayground.unity
-    guid: 02826aa25d83f154c86a19106adbf6c6
+    guid: 86365f2232499424aa453df56699f434
