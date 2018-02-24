@@ -13,7 +13,7 @@ public class GameManager : MonoBehaviour
         if (gameHasEnded == false)
         {
             gameHasEnded = true;
-            Debug.Log("GAME OVER!");
+            // Povikaj go ekranot za vnesuvanje na high score
             Invoke("Restart", restartDelay);
         }
     }

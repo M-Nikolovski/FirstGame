@@ -288,9 +288,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
+    <Compile Include="Assets\button.cs" />
+    <Compile Include="Assets\macedoniaplayer.cs" />
+    <Compile Include="Assets\meni.cs" />
+    <Compile Include="Assets\Scripts\CollectibleRotation.cs" />
+=======
     <Compile Include="Assets\meni.cs" />
     <Compile Include="Assets\PointCollect.cs" />
     <Compile Include="Assets\rr.cs" />
+>>>>>>> 9b1d18eb1409754b43adf9b9254cd8387420a503
     <Compile Include="Assets\Scripts\FollowPlayer.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\PlayerCollision.cs" />
