@@ -53,9 +53,13 @@
   <ItemGroup>
      <Compile Include="Assets\button.cs" />
      <Compile Include="Assets\meni.cs" />
+     <Compile Include="Assets\NewBehaviourScript.cs" />
+     <Compile Include="Assets\Scripts\ClickAction.cs" />
+     <Compile Include="Assets\Scripts\CountrySelector.cs" />
      <Compile Include="Assets\Scripts\Floater.cs" />
      <Compile Include="Assets\Scripts\FollowPlayer.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
+     <Compile Include="Assets\Scripts\MainMenu.cs" />
      <Compile Include="Assets\Scripts\MovingObstacles.cs" />
      <Compile Include="Assets\Scripts\PlayerCollision.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
