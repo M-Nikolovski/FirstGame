@@ -288,12 +288,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
-    <Compile Include="Assets\CollectibleRotation.cs" />
+    <Compile Include="Assets\button.cs" />
+    <Compile Include="Assets\macedoniaplayer.cs" />
     <Compile Include="Assets\meni.cs" />
-=======
     <Compile Include="Assets\Scripts\CollectibleRotation.cs" />
->>>>>>> b658a1898e6e40837715d6d7330ca1f446b411a1
     <Compile Include="Assets\Scripts\FollowPlayer.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\PlayerCollision.cs" />
