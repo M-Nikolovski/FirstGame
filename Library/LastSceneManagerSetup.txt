@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/SelectCountry.unity
+=======
+- path: Assets/Stages/Macedonia.unity
+>>>>>>> 4295a0685e055ffc3c1a71fe56edf66f143c908f
   isLoaded: 1
   isActive: 1
