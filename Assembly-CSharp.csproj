@@ -59,6 +59,7 @@
      <Compile Include="Assets\Scripts\PointCollect.cs" />
      <Compile Include="Assets\Scripts\Question_script.cs" />
      <Compile Include="Assets\Scripts\ScoreCalculator.cs" />
+     <Compile Include="Assets\Scripts\SpeedChanger.cs" />
      <Compile Include="Assets\Scripts\yRotation.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
