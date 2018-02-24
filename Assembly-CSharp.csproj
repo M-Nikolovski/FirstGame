@@ -51,7 +51,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\button.cs" />
+     <Compile Include="Assets\macedoniaplayer.cs" />
      <Compile Include="Assets\meni.cs" />
+     <Compile Include="Assets\Scripts\Floater.cs" />
      <Compile Include="Assets\Scripts\FollowPlayer.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\PlayerCollision.cs" />
