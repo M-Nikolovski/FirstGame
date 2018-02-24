@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/zemji.unity
-=======
 - path: Assets/Stages/Macedonia.unity
->>>>>>> 9b1d18eb1409754b43adf9b9254cd8387420a503
   isLoaded: 1
   isActive: 1
