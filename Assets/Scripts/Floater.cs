@@ -28,7 +28,7 @@ public class Floater : MonoBehaviour
 
         // Float up/down with a Sin()
         tempPos = posOffset;
-        tempPos.y += Mathf.Sin(Time.fixedTime * Mathf.PI * frequency) * amplitude / 3;
+        tempPos.y += Mathf.Sin(Time.fixedTime * Mathf.PI * frequency) * amplitude / 2.4f;
 
         transform.position = tempPos;
     }

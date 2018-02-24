@@ -290,8 +290,10 @@
   <ItemGroup>
     <Compile Include="Assets\button.cs" />
     <Compile Include="Assets\meni.cs" />
+    <Compile Include="Assets\Scripts\Floater.cs" />
     <Compile Include="Assets\Scripts\FollowPlayer.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\MovingObstacles.cs" />
     <Compile Include="Assets\Scripts\PlayerCollision.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\PointCollect.cs" />
